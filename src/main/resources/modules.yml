@@ -1,0 +1,9 @@
+modules:
+  trader_notification:
+    enabled: true
+    allowed_worlds:
+      blacklist: false
+      list:
+        - world
+        - world_nether
+        - world_the_end

@@ -1,0 +1,8 @@
+name: Awakening
+version: ${project.version}
+main: me.joshmiquel.awakening.Awakening
+api-version: '1.16'
+authors: [JoShMiQueL]
+commands:
+  modules:
+    description: 'Manages the plugin modules'
